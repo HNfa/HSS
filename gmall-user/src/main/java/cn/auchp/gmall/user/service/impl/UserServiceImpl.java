@@ -1,10 +1,10 @@
 package cn.auchp.gmall.user.service.impl;
 
-import cn.auchp.gmall.user.bean.UmsMember;
-import cn.auchp.gmall.user.bean.UmsMemberReceiveAddress;
+import cn.auchp.gmall.bean.UmsMember;
+import cn.auchp.gmall.bean.UmsMemberReceiveAddress;
 import cn.auchp.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import cn.auchp.gmall.user.mapper.UserMapper;
-import cn.auchp.gmall.user.service.UserService;
+import cn.auchp.gmall.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package cn.auchp.gmall.user.bean;
+package cn.auchp.gmall.bean;
 
 import javax.persistence.Id;
 import java.io.Serializable;

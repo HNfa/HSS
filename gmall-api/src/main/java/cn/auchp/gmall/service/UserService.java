@@ -1,7 +1,9 @@
-package cn.auchp.gmall.user.service;
+package cn.auchp.gmall.service;
 
-import cn.auchp.gmall.user.bean.UmsMember;
-import cn.auchp.gmall.user.bean.UmsMemberReceiveAddress;
+import cn.auchp.gmall.bean.UmsMember;
+import cn.auchp.gmall.bean.UmsMember;
+import cn.auchp.gmall.bean.UmsMemberReceiveAddress;
+
 
 import java.util.List;
 
